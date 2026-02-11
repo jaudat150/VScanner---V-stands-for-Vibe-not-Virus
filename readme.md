@@ -25,6 +25,5 @@ pip install -r requirements.txt
 1. Clone or download the repository:
 
 ```bash
-git clone https://github.com/jaudat150/OS-s-automation-and-security-/DeepSecurityScannerGUI.git
-cd DeepSecurityScannerGUI
+git clone https://github.com/jaudat150/VScanner---V-stands-for-Vibe-not-Virus
 ```
